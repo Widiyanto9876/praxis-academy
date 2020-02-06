@@ -3,9 +3,12 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/latihan/.dart_tool" />
-      <excludeFolder url="file://$MODULE_DIR$/latihan/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/latihan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/01-01/kasus/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/01-01/kasus/build" />
+      <excludeFolder url="file://$MODULE_DIR$/01-01/kasus2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/01-01/kasus2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/03-01/latihan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/03-01/latihan/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
