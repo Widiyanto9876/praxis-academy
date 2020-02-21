@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "339221174141",
+    "firebase_url": "https://mobile-bfab3.firebaseio.com",
+    "project_id": "mobile-bfab3",
+    "storage_bucket": "mobile-bfab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339221174141:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHIPnMBC65ibCX3Y_wXjGFwPCKmMhOKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339221174141:android:fd13231dd49b4acce31e14",
+        "android_client_info": {
+          "package_name": "com.example.flutterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHIPnMBC65ibCX3Y_wXjGFwPCKmMhOKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339221174141:android:6c1834890aa76a96",
+        "android_client_info": {
+          "package_name": "com.sample.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHIPnMBC65ibCX3Y_wXjGFwPCKmMhOKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339221174141:android:bf27147d466e0193",
+        "android_client_info": {
+          "package_name": "mobile.com.dapur.wisata_nusantara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHIPnMBC65ibCX3Y_wXjGFwPCKmMhOKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339221174141-sqdo5b4ms56sbn84m9votklk3vsmofn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
